@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main(){
- printf("Hello World!!!");
- printf("To jest kolejna linia");
+ printf("Hello World!!!\n");
+ printf("To jest kolejna linia\n");
  return 0;
 }
 
